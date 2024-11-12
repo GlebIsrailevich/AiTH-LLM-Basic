@@ -1,0 +1,1 @@
+LLM basic course in ITMO provided by AIRI team
